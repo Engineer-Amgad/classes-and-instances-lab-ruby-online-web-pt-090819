@@ -1,7 +1,6 @@
 class Person
 end
 
-adele_goldberg = Person.New 
-end 
+adele_goldberg = Person.new
 
-alan_key = Person.New
+alan_key = Person.new
